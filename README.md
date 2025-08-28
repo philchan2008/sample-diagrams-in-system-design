@@ -24,5 +24,6 @@
 ![](https://raw.githubusercontent.com/philchan2008/sample-diagrams-in-system-design/refs/heads/main/Handheld%20Password%20Hashing%20Logic%20(BPMN).svg)
 ![](https://raw.githubusercontent.com/philchan2008/sample-diagrams-in-system-design/refs/heads/main/SaConfig%20COM%20Object%20Login%20Logic.svg)
 
-
+## Underlaying Technologies
+![](https://raw.githubusercontent.com/philchan2008/sample-diagrams-in-system-design/refs/heads/main/Application%20Layers.svg)
 
