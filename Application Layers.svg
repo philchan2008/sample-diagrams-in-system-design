@@ -226,10 +226,10 @@
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-977,-39)" stroke-linecap="butt">
       <path fill="none" d="M1277.9816 204 L1277.9816 229.175" clip-path="url(#clipPath2)"/>
       <path d="M1277.9816 237.175 L1282.9816 225.175 L1277.9816 228.175 L1272.9816 225.175 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <text x="1234.9738" xml:space="preserve" y="225.3014" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">https</text>
+      <text x="1234.9738" xml:space="preserve" y="227.5383" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">https</text>
       <path fill="none" d="M1272.3109 296.5421 L1272.3109 315.4955" clip-path="url(#clipPath2)"/>
       <path d="M1272.3109 323.4955 L1277.3109 311.4955 L1272.3109 314.4955 L1267.3109 311.4955 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <text x="1169.2894" xml:space="preserve" y="314.4008" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">(local loop) http</text>
+      <text x="1229.3031" xml:space="preserve" y="314.4008" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">https</text>
       <path fill="none" d="M1272.3109 599.4856 L1272.3109 611.4959" clip-path="url(#clipPath2)"/>
       <path d="M1272.3109 619.4959 L1277.3109 607.4959 L1272.3109 610.4959 L1267.3109 607.4959 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <rect x="1224.643" y="600.6494" clip-path="url(#clipPath2)" fill="white" width="35.3359" height="18.7012" stroke="none"/>
